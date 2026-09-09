@@ -33,15 +33,15 @@ This project delivers an end-to-end **Sales Performance & Credit Risk Intelligen
 ---
 ## 📸 Dashboard Screenshots
 
-### 1️ Demo Video
+### 1️- Demo Video
 https://github.com/user-attachments/assets/7b07f84b-83d7-4d76-9071-dbf8033103fc
 
-### 2 Executive Sales Overview
+### 2- Executive Sales Overview
 <img width="1365" height="780" alt="Image" src="https://github.com/user-attachments/assets/b29a4bbb-bf53-4a4d-84f0-a56d86946335" />
 
-### 3 Customer Performance & Credit Risk
+### 3- Customer Performance & Credit Risk
 <img width="1357" height="796" alt="Image" src="https://github.com/user-attachments/assets/b467461d-efbe-4afe-a00a-f4092ba89dec" />
-### 4 Salesperson Performance & Ranking
+### 4- Salesperson Performance & Ranking
 ![Salesperson Performance](https://i.ibb.co/xxxxxx/Q1_Salesperson.png)
 
 ---
