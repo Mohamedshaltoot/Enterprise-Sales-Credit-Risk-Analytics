@@ -34,7 +34,7 @@ This project delivers an end-to-end **Sales Performance & Credit Risk Intelligen
 ## 📸 Dashboard Screenshots
 
 ### 1️⃣ Executive Sales Overview
-![Sales Overview](https://i.ibb.co/xxxxxx/Q1_Overview.png)
+<img width="1362" height="780" alt="Image" src="https://github.com/user-attachments/assets/04662774-9dd9-4f4f-b371-46b3aa02493a" />
 
 ### 2️⃣ Customer Performance & Credit Risk
 ![Customer Performance](https://i.ibb.co/xxxxxx/Q1_Customers.png)
