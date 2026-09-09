@@ -80,4 +80,6 @@ This dashboard bridges the gap between commercial expansion and financial risk g
 </div>
 
 
-"Note: To comply with data privacy policies and non-disclosure agreements (NDA), all company identifiers and proprietary dataset metrics have been sanitized and replaced with synthetic/mock data, while fully preserving the underlying business logic and analytics structure."
+  Note: 
+              To comply with data privacy policies and non-disclosure agreements (NDA), 
+              all company identifiers and proprietary dataset metrics have been sanitized and replaced with synthetic/mock data, while fully preserving the                      underlying business logic and analytics structure.
