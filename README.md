@@ -37,7 +37,7 @@ This project delivers an end-to-end **Sales Performance & Credit Risk Intelligen
 <img width="1365" height="780" alt="Image" src="https://github.com/user-attachments/assets/b29a4bbb-bf53-4a4d-84f0-a56d86946335" />
 
 ### 2️⃣ Customer Performance & Credit Risk
-![Customer Performance](https://i.ibb.co/xxxxxx/Q1_Customers.png)
+<img width="1357" height="802" alt="Image" src="https://github.com/user-attachments/assets/dea44168-3139-4da8-a695-019579b7ac32" />
 
 ### 3️⃣ Salesperson Performance & Ranking
 ![Salesperson Performance](https://i.ibb.co/xxxxxx/Q1_Salesperson.png)
